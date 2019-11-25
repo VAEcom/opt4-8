@@ -22,3 +22,4 @@ def forward(x,regularizer):
     y=tf.matmul(y1,w2)+b2
 
     return y
+
